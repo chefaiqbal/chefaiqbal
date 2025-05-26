@@ -34,8 +34,57 @@ Student @ Reboot01 https://reboot01.com/
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36" height="36" alt="Shell" /></a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="SQLite" /></a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
 </p>
 
+### Featured Projects
+
+#### [Bomberman-dom](https://github.com/chefaiqbal/bomberman-dom)
+A multiplayer Bomberman game featuring real-time interaction and dynamic environments.  
+**Technologies:** JavaScript (Custom Framework), Go, WebSockets, TailwindCSS  
+**Key Features:** Real-time multiplayer for up to 4 players, power-ups system, destructible environment, real-time chat, lobby system, auto IP detection
+
+---
+
+#### [Social Network](https://github.com/chefaiqbal/social-network)
+A Facebook-like Social Network built with Go and Next.js, featuring user profiles, posts, groups, notifications, and real-time chat using Websockets. Fully containerized using Docker for easy deployment.  
+**Technologies:** TypeScript, Go, CSS, Shell, Batchfile, Dockerfile, JavaScript, Next.js, SQLite, Websockets  
+**Key Features:** User profiles, posts, groups, notifications, real-time chat, database encryption, containerized deployment
+
+---
+
+#### [Net-Cat](https://github.com/chefaiqbal/net-cat)
+Enhances the classic NetCat utility by introducing a server-client architecture for group chat, allowing multiple clients to connect, send/receive messages with timestamps and usernames, and receive notifications when clients join or leave.  
+**Technologies:** Go  
+**Key Features:** Group chat, chat history, client notifications
+
+---
+
+#### [ATM Management System](https://github.com/chefaiqbal/atm-management-system)
+A secure and efficient ATM simulation system featuring user authentication, account management, transaction tracking, and interest calculations.  
+**Technologies:** C, SQLite, Makefile  
+**Key Features:** User authentication, account management, transaction tracking, interest calculations
+
+---
+
+#### [GraphQL Dashboard](https://github.com/chefaiqbal/GraphQL-Dashboard)
+A dynamic dashboard system using GraphQL, JWT authentication, and D3.js for data visualization.  
+**Technologies:** JavaScript, GraphQL, JWT, D3.js  
+**Key Features:** User authentication, progress tracking, data visualization, responsive design
+
+---
+
+#### [Real-Time Forum](https://github.com/chefaiqbal/real-time-forum)
+A real-time forum application built with Golang, SQLite, and JavaScript, featuring user registration, post creation, commenting, and private messaging.  
+**Technologies:** Go, SQLite, JavaScript  
+**Key Features:** User registration, post creation, commenting, private messaging
+
+---
+
+#### [Groupie Tracker Geolocalization](https://github.com/chefaiqbal/Groupie-Tracker-Geolocalization)
+Maps concert locations for an artist or band by converting addresses into geographic coordinates and displaying them on a map.  
+**Technologies:** Go  
+**Key Features:** Data manipulation, geolocation, Maps API integration
 
 ### Socials
 
