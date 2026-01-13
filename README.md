@@ -1,66 +1,280 @@
-[![Black Yellow Minimalist Elegant Grow Your Business LinkedIn Banner](https://github.com/chefaiqbal/master/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner%20(4).jpg)](https://www.canva.com/design/DAF858S0p9o/voHK50drJ3aQuijyjRlZDA/view?utm_content=DAF858S0p9o&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
+<div align="center">
 
+# 👨‍💻 Amir Iqbal
 
+### From Culinary Excellence to Code Excellence
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amir Iqbal
-==================================================================================================================================
+**Full-Stack Developer** | **AI/ML Engineer** | **Problem Solver**
 
-Full-Stack Developer | AI/ML Specialist | Go, Rust, JavaScript, Next.js | Cloud & Automation Enthusiast
----------------------------------
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chef-ai/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiriqbal87@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chefaiqbal)
 
-From Culinary Expert to Coding - A new Beginning. 
+</div>
 
-Student @ Reboot01 https://reboot01.com/
+---
 
-* 🌍  I'm based in Bahrain
-* 🖥️  See my portfolio at [Projects from Reboot](https://github.com/chefaiqbal?tab=repositories)
-* ✉️  You can contact me at [amiriqbal87@gmail.com](mailto:amiriqbal87@gmail.com)
-* 🚀  I'm currently working on [Various Projects which are part of Reboot Curriculum](http://reboot01.com/curriculum/)
+## 🎯 About Me
 
-### Skills
+> *"From crafting recipes to crafting code – leveraging precision, creativity, and systematic thinking in software engineering."*
 
+- 🌍 **Location:** Bahrain
+- 🎓 **Student @ [Reboot01](https://reboot01.com/)** – Intensive software engineering program
+- 🔄 **Career Transition:** Bringing culinary discipline, attention to detail, and problem-solving mindset into tech
+- 💡 **Focus Areas:** Full-Stack Development, AI/ML Solutions, Cloud Architecture, Real-time Systems
+- 🚀 **Currently:** Building production-ready applications with modern tech stacks
 
-<p align="left">
-    <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" /></a>
-    <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36" height="36" alt="Shell" /></a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="SQLite" /></a>
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
-    <!-- Python and AI/ML technologies -->
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" /></a>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" /></a>
-    <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="36" height="36" alt="Keras" /></a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" /></a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" /></a>
-    <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NLTK-154f3c?style=flat&logo=python&logoColor=white" height="32" alt="NLTK" /></a>
-    <a href="https://pypi.org/project/tabulate/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tabulate-306998?style=flat&logo=python&logoColor=white" height="32" alt="Tabulate" /></a>
-    <a href="https://spacy.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=python&logoColor=white" height="32" alt="spaCy" /></a>
-</p>
+---
 
+## 🛠️ Tech Stack
 
-### Socials
+### **Languages**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<p align="left">
-    <a href="https://www.github.com/chefaiqbal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-    <a href="https://www.linkedin.com/in/chef-ai/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-</p>
+### **Frontend Development**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Badges
+### **Backend Development**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<b>My GitHub Stats</b>
+### **AI/ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
 
-<a href="http://www.github.com/chefaiqbal"><img src="https://github-readme-stats.vercel.app/api?username=chefaiqbal&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chefaiqbal's GitHub stats" /></a>
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<a href="https://github.com/chefaiqbal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chefaiqbal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 🚀 Featured Projects
+
+### 🤖 **AI/ML & Data Science**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📈 [S&P 500 AI Trading Strategy](https://github.com/chefaiqbal/SP500-AI-Trading-Strategy)
+End-to-end algorithmic trading pipeline using Random Forest to predict stock movements and outperform the S&P 500. Features backtesting engine and Streamlit dashboard. 
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+📊 Random Forest • Backtesting • Technical indicators • 60%+ returns
+
+</td>
+<td width="50%">
+
+#### 📰 [NLP News Intelligence Platform](https://github.com/chefaiqbal/NLP-News-Intelligence-Platform)
+End-to-end NLP pipeline for news analysis with entity detection, topic classification, sentiment analysis, and environmental scandal detection.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-154f3c?style=flat-square&logo=python&logoColor=white)
+
+🔍 BBC scraping • Entity recognition • Sentiment analysis • Dashboard
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 👁️ [VisionTrack](https://github.com/chefaiqbal/VisionTrack)
+Real-time multi-stream person detection, tracking, and counting system using YOLOv8 and ByteTrack for crowd management and security monitoring.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+🎯 YOLOv8 • ByteTrack • Multi-stream • Entry/exit counting
+
+</td>
+<td width="50%">
+
+#### 🎬 [Movie Recommender System](https://github.com/chefaiqbal/Movie-Recommender-System)
+Advanced recommendation engine using SVD & PMF matrix factorization with demographic bias correction on MovieLens 1M dataset.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+🎯 Matrix factorization • Bias correction • Interactive API
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 💳 [Credit Scoring System](https://github.com/chefaiqbal/credit-scoring)
+Machine learning system for credit risk assessment and borrower evaluation using classification algorithms and financial data analysis.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+📊 Credit risk • Classification • Financial analysis
+
+</td>
+<td width="50%">
+
+#### ✈️ [Airline Satisfaction Intelligence](https://github.com/chefaiqbal/Airline-Satisfaction-Intelligence)
+Spectral learning analysis with PCA and SVD implemented from scratch using NumPy for customer segmentation and satisfaction analysis.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+📊 PCA from scratch • SVD • Clustering • Visualization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🚢 [Kaggle Titanic ML](https://github.com/chefaiqbal/kaggle-titanic)
+Advanced feature engineering and model training achieving 80%+ accuracy on Kaggle's Titanic dataset with reproducible pipeline.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+📈 Feature engineering • 80%+ accuracy • Reproducible pipeline
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 **Full-Stack Development**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🌐 [Social Network](https://github.com/chefaiqbal/social-network)
+Facebook-like social platform with user profiles, groups, posts, notifications, and real-time chat using WebSockets.  Fully containerized with Docker.
+
+**Tech Stack:**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+⚡ Real-time chat • WebSockets • SQLite • Docker • Groups
+
+</td>
+<td width="50%">
+
+#### 💣 [Bomberman DOM](https://github.com/chefaiqbal/bomberman-dom)
+Multiplayer Bomberman game built with a custom vanilla JavaScript framework and Go WebSocket server for real-time gameplay.
+
+**Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+🎮 Custom JS framework • Multiplayer • WebSocket server
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔧 **Systems Programming**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏧 [ATM Management System](https://github.com/chefaiqbal/atm-management-system)
+Secure ATM simulation with user authentication, account management, transaction tracking, and interest calculations.  Built with C & SQLite with SHA256 password hashing.
+
+**Tech Stack:**  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Makefile](https://img.shields.io/badge/Make-427819?style=flat-square&logo=gnu&logoColor=white)
+
+🔐 SHA256 hashing • CRUD operations • Transaction history • Interest
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
+---
+## 🎓 Education & Learning
+
+**Reboot01** – [Full Curriculum](http://reboot01.com/curriculum/)  
+Intensive project-based software engineering program covering:
+- Systems programming (Go, Rust, C)
+- Full-stack web development (Next.js, TypeScript, Go)
+- AI/ML and data science (Python, TensorFlow, scikit-learn)
+- DevOps and containerization (Docker, Linux)
+- Real-time applications and WebSocket architecture
+
+---
+
+## 💼 What I Bring to the Table
+
+```
+🍳 Culinary Background → Systematic thinking, precision, and attention to detail
+🧠 Problem Solver      → Breaking complex problems into manageable components  
+🔧 Full-Stack Skills   → From database to deployment, end-to-end ownership
+🤖 AI/ML Expertise     → Building intelligent systems with real-world impact
+🚀 Fast Learner        → Career pivot demonstrates adaptability and drive
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Open to opportunities in Full-Stack Development, AI/ML Engineering, and Software Engineering roles**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chef-ai/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiriqbal87@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chefaiqbal?tab=repositories)
+
+---
+
+*"Transforming ingredients into dishes taught me patience and precision.   
+Now I'm transforming ideas into code."* 🚀
+
+</div>
